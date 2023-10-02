@@ -1,0 +1,13 @@
+#title{
+    font-family: 'Cormorant Garamond', serif;
+}
+nav{
+    display:inline-block
+}
+.video{
+    width: 950px;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
