@@ -5,9 +5,14 @@ nav{
     display:inline-block
 }
 .video{
-    width: 950px;
-    margin: auto;
+    width: 100%;
+    margin:auto;
 }
 body{
     background-color: black;
+}
+.image1{
+    width: 50%;
+    position: relative;
+    margin-top: -70px;
 }
