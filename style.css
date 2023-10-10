@@ -41,15 +41,22 @@ body{
 
 .black{
     margin-top: 290px;
-
     width: 100%;
     background-color: rgb(46, 46, 46);
-    height: 450px;
+    height: 550px;
 }
 .card{
     position: relative;
     font-family: 'Cormorant Garamond', serif;
     color: white;
-   padding-top: 100px;
-    margin:auto;
+    padding-top: 100px;
+    margin: left;
+    margin-top: -490px;
+}
+.card2{
+    position:absolute;
+    font-family: 'Cormorant Garamond', serif;
+    color: white;
+    margin-top: -450px;
+    margin-left: 800px;
 }
